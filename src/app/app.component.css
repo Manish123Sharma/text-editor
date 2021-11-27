@@ -1,0 +1,26 @@
+.r {
+    position: absolute;
+}
+
+.r-bold {
+    position: absolute;
+    font-size: 900;
+}
+
+body {
+    height: 700px;
+}
+
+.container {
+    width: 500px;
+    height: 250px;
+    margin-top: 180px;
+    margin-left: 520px;
+    font-size: x-large;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: black solid 20px;
+    border-radius: 5px;
+}
